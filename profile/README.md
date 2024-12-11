@@ -43,13 +43,13 @@ Our project would not be working properly unless the Cloud Computing team provid
 
 # 🗂️ Repositories
 
-Our team uses GitHub to manage and collaborate on the source code effectively. Before reviewing our source code, put some attention on it because there are many branches in our repositories. Below are the repositories, categorised by our main focus areas:
+Our team uses GitHub to manage and collaborate on the source code effectively. Before reviewing our source code, put some attention on it because **there are many branches in our repositories**. Below are the repositories, categorised by our main focus areas:
 
-| Learning Path      | Repo Link |
-| ------------------ | --------- |
-| Machine Learning   | []()      |
-| Mobile Development | []()      |
-| Cloud Computing    | []()      |
+| Learning Path      | Repo Link                                                                 |
+| ------------------ | ------------------------------------------------------------------------- |
+| Machine Learning   | [Machine-Learning](https://github.com/NYAM-Food-App/Machine-Learning)     |
+| Mobile Development | [Mobile-Development](https://github.com/NYAM-Food-App/Mobile-Development) |
+| Cloud Computing    | [Cloud-Computing](https://github.com/NYAM-Food-App/Cloud-Computing)       |
 
 # 👨‍💻 Our Team Members
 
