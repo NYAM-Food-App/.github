@@ -18,14 +18,15 @@
   - [📱 Mobile Development](#-mobile-development)
   - [☁️ Cloud Computing](#️-cloud-computing)
 - [🗂️ Repositories](#️-repositories)
+- [📲 Install the Application](#-install-the-application)
 - [👨‍💻 Our Team Members](#-our-team-members)
 - [🙏 Conclude](#-conclude)
 
 # 📝 Introduction
+
 Maintaining a healthy body starts with eating nutritious food. However, achieving this goal is often more challenging than it seems. It's not just about eating healthy; we must also consider various factors, such as the nutritional value of the food, how to prepare it in a way that retains its nutrients, and how to make it taste delicious. These considerations can be overwhelming for many people, especially when they are unsure where to start.
 
-To address this challenge, we created NYAM, which stands for Not Your Average Menu. We designed NYAM, an innovative application, to assist users in discovering healthy diet menus using ingredients they already have at home. The app uses image recognition technology to analyze an image of the ingredients uploaded by the user. It then predicts the content of the image and suggests recipes tailored to the user's BMI, making healthy eating more accessible and personalised than ever before.
-
+To address this challenge, we created **NYAM**, which stands for Not Your Average Menu. We designed NYAM, an innovative application, to assist users in discovering healthy diet menus using ingredients they already have at home. The app uses image recognition technology to analyze an image of the ingredients uploaded by the user. It then predicts the content of the image and suggests recipes tailored to the user's BMI, making healthy eating more accessible and personalised than ever before.
 
 We have organised this project into three major categories, each of which represents a core aspect of our work. We will provide a comprehensive overview of the responsibilities and tasks associated with each category, offering insights into the specific job roles and contributions involved. The categories are outlined as follows:
 
@@ -43,13 +44,26 @@ Our project would not be working properly unless the Cloud Computing team provid
 
 # 🗂️ Repositories
 
-Our team uses GitHub to manage and collaborate on the source code effectively. Before reviewing our source code, put some attention on it because **there are many branches in our repositories**. Below are the repositories, categorised by our main focus areas:
+Our team uses GitHub to manage and collaborate on the source code effectively. Before reviewing our source code, please put some attention on it because **there are many branches in our repositories**. Below are the repositories, categorised by our main focus areas:
 
 | Learning Path      | Repo Link                                                                 |
 | ------------------ | ------------------------------------------------------------------------- |
 | Machine Learning   | [Machine-Learning](https://github.com/NYAM-Food-App/Machine-Learning)     |
 | Mobile Development | [Mobile-Development](https://github.com/NYAM-Food-App/Mobile-Development) |
 | Cloud Computing    | [Cloud-Computing](https://github.com/NYAM-Food-App/Cloud-Computing)       |
+
+# 📲 Install the Application
+
+If you ask a question "*Where can I download the application?*", then we are very pleased to answer that we have released the application from link below.
+
+[Release APK link](https://github.com/NYAM-Food-App/Mobile-Development/releases/)
+
+Having difficulties during installation? Here some steps to install the apk:
+
+1. Find the latest version of our .apk file, then click on it,
+2. Scroll down to **Assets**, click on **NYAM-app_v*x*.*x*.*x*.apk** to download the apk,
+3. After waiting the download finished, click the file,
+4. Install the application.
 
 # 👨‍💻 Our Team Members
 
