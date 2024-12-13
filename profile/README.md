@@ -36,7 +36,7 @@ We developed two machine learning models using TensorFlow for our application. T
 
 ## 📱 Mobile Development
 
-To create the planned program, we started by designing and developing the application's workflow, covering all features from start to finish as agreed upon during discussions. Next, we designed the UI/UX based on the existing workflow, striving to create an interface that is simple for users to understand while delivering the best possible experience. Afterward, we implemented the UI design into Android Studio (slicing). The process went smoothly but required some adjustments along the way.
+To create the planned program, we started by designing and developing the application's workflow, covering all features from start to finish as agreed upon during discussions. Next, we designed the UI/UX based on the existing workflow, striving to create an interface that is simple for users to understand while delivering the best possible experience. Afterward, we implemented the UI design into Android Studio (slicing). The process went smoothly but required some adjustments along the way. In implementing the necessary logic to ensure everything runs smoothly, we utilized MVVM, Retrofit for API calls, and Room Database. All processes, including login and various features, have been successfully developed. With the support of API deployment from the Cloud Computing team and model training from the Machine Learning team, all functionalities are now operating as intended.
 
 ## ☁️ Cloud Computing
 
